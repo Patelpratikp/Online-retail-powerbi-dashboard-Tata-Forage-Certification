@@ -27,4 +27,4 @@ This project analyzes online retail sales data using Power BI to identify revenu
 Completed Tata Data Visualisation Virtual Experience Program by Forage.
 
 ## 📷 Dashboard Preview
-![Dashboard](dashboard.png)
+
